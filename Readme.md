@@ -15,14 +15,14 @@ HTML e CSS.
 Abrir no navegador.
 
 ## Branches
-- main: versão principal.
-- develop: reúne alterações
+ main: versão principal.
+ develop: junta as  alterações
 
 
 ## Pull Requests
 As alterações são revisadas antes de ir pra main
 
 ## Histórico de versões
-- 1.0: página inicial.
-- 1.1: documentação.
-- 1.2: configuração do Git.
+
+ 0.0.1- versao inicial
+ 1.00 - versao final 
